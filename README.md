@@ -1,0 +1,2 @@
+# Custom-camera-app
+The camera application gets installed in the mobile phone connected to the system and opens a custom camera.The capture button captures the image and the image gets saved in the pictures directory and the URL of the image in shown in the logcat of the android studio.The gallery button directs us to the clicked pictures displayed based on time.The upload button triggers the uploadImage() method and uploads the desired pictures to the drive.
